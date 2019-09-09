@@ -1,0 +1,6 @@
+.DS_Store
+~$*
+.vs/
+*.tmp
+*.tmp_proj
+*.userprefs
