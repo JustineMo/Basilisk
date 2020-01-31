@@ -7,6 +7,7 @@ Basilisk is an epic, amazing, modular, automatized hydroponic plant pot for your
 Designed by **Justė Motuzaitė**.
 
 Main questions to be answered below.
+
 **1. Why modular vertical garden?**
 Vertical gardening is a type of space-effective gardening, used for small spaces, because plants are grown vertically. This is a way to fit your favourite seasonings, herbs or decorative plants into one place near the window. 
 Modular structure. Because of identical profile, plant pot holders can be stacked on top of each other, making Basilisk highly adaptible to each user's needs. Size can vary from as little as 2 plants to 10-13 plants per Garden. And if there is a wish for an upgrade, all you need to do is 3D print one more pot holder!
