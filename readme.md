@@ -43,7 +43,7 @@ Current tasks:
 
 Assembled Basilisk construction with 5 places for plants.
 
-![Basilisk Assembly](https://raw.githubusercontent.com/JustineMo/Basilisk/master/Documentation/Pics/FULL_assembly.jpg)
+![Basilisk Assembly](https://raw.githubusercontent.com/JustineMo/Basilisk/master/Documentation/Pics/FULL_assembly.jpg =250x)
 Seperate parts can be viewed in [Renders](https://github.com/JustineMo/Basilisk/tree/master/Documentation/Renders) folder.
 
 
